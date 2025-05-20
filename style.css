@@ -1,0 +1,67 @@
+.bkgrndcolor {
+	background-color: rgb(255,211,172);
+}
+
+.header {
+	background-color: #FFA657;
+	text-align: center;
+}
+
+.header a {
+	color: white;
+	font-size: 20px;
+}
+
+
+.bookcover img {
+	width: 100px;
+	height: auto;
+	float: left;
+	margin: 0 15px 15px 0;
+}
+
+div.background {
+	background: url(brayanislandcover.jpg) repeat;
+	border: 2px solid black;
+}
+
+div.overlay-text {
+	margin: 30px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	opacity: 0.6;
+}
+
+div.overlay-text p {
+	margin: 5%;
+	font-weight: bold;
+	color: #000000;
+}
+
+.text {
+	font-family: "Courier New", "Lucida Console", monospace;
+}
+
+.firstp {
+	font-family: "Times New Roman", Times, serif;
+}
+
+.book {
+	font-family: "Times New Roman", Times, serif;
+	text-indent: 50px;
+}
+
+.wrap-image-right {
+	float: right;
+	margin: 0 15px 15px 0;
+	width: 300px;
+}
+
+.center {
+	text-align: center;
+}
+
+.center img {
+	width: 50px;
+	height: auto;
+}
